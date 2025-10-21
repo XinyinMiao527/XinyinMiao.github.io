@@ -1,0 +1,12 @@
+---
+title: "index"
+author: "Xinyin Miao"
+date: "2025-10-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
